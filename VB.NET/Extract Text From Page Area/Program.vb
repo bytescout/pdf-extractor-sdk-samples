@@ -10,15 +10,12 @@
 '****************************************************************************'
 
 
-' This example page extraction by found keyword.
-
+Imports System.Drawing
 Imports Bytescout.PDFExtractor
 
+
 Class Program
-
     Friend Shared Sub Main(args As String())
-
-        Dim inputFile As String = ".\sample2.pdf"
 
         ' Create Bytescout.PDFExtractor.TextExtractor instance
         Dim extractor As New TextExtractor()
@@ -26,33 +23,37 @@ Class Program
         extractor.RegistrationKey = "demo"
 
         ' Load sample PDF document
-        extractor.LoadDocumentFromFile(inputFile)
+        extractor.LoadDocumentFromFile("sample2.pdf")
 
+        ' Get page count
         Dim pageCount As Integer = extractor.GetPageCount()
 
-        ' Search each page for a keyword 
+        ' Iterate through pages
         For i As Integer = 0 To pageCount - 1
 
-            If extractor.Find(i, "bombardment", False) Then
+            ' Define rectangle location to extract from
+            Dim location As RectangleF = New RectangleF(0, 0, 200, 200)
 
-                ' Extract page
-                Using splitter As New DocumentSplitter("demo", "demo")
+            ' Set extraction area
+            extractor.SetExtractionArea(location)
 
-                    splitter.OptimizeSplittedDocuments = True
+            ' Extract text from the extraction area
+            Dim text As String = extractor.GetTextFromPage(i)
 
-                    Dim pageNumber As Integer = i + 1
-                    ' (!) page number in ExtractPage() is 1-based
-                    Dim outputFile As String = ".\page" & pageNumber.ToString() & ".pdf"
-                    splitter.ExtractPage(inputFile, outputFile, pageNumber)
+            Console.WriteLine("Extracted from page #" + i.ToString() + ":")
+            Console.WriteLine()
+            Console.WriteLine(text)
 
-                    Console.WriteLine("Extracted page " & pageNumber.ToString() & " to file """ & outputFile & """")
+            ' Reset the extraction area
+            extractor.ResetExtractionArea()
 
-                End Using
-            End If
+            Console.WriteLine()
+
         Next
 
-        Console.WriteLine()
-        Console.WriteLine("Press any key...")
+
+        Console.WriteLine("Press any key to exit...")
         Console.ReadKey()
+
     End Sub
 End Class

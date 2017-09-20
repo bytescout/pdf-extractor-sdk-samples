@@ -17,12 +17,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FindTableAndExtractAsCsv")]
+[assembly: AssemblyTitle("ExtractTextFromPageArea")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FindTableAndExtractAsCsv")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyProduct("ExtractTextFromPageArea")]
+[assembly: AssemblyCopyright("Copyright ©  2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,7 +32,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("90c92623-11ae-4ddb-9982-80552a4cc3f5")]
+[assembly: Guid("fda6dfe6-c58a-4b29-9d3f-c86594dc0e9f")]
 
 // Version information for an assembly consists of the following four values:
 //
