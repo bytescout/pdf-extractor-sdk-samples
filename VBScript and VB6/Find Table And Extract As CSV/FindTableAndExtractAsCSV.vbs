@@ -1,13 +1,13 @@
-'****************************************************************************'
-'                                                                            '
-' Download evaluation version: https://bytescout.com/download/web-installer  '
-'                                                                            '
-' Signup Cloud API free trial: https://secure.bytescout.com/users/sign_up    '
-'                                                                            '
-' Copyright © 2017 ByteScout Inc. All rights reserved.                       '
-' http://www.bytescout.com                                                   '
-'                                                                            '
-'****************************************************************************'
+'*****************************************************************************************'
+'                                                                                         '
+' Download offline evaluation version (DLL): https://bytescout.com/download/web-installer '
+'                                                                                         '
+' Signup Web API free trial: https://secure.bytescout.com/users/sign_up                   '
+'                                                                                         '
+' Copyright © 2017-2018 ByteScout Inc. All rights reserved.                               '
+' http://www.bytescout.com                                                                '
+'                                                                                         '
+'*****************************************************************************************'
 
 
 ' Create Bytescout.PDFExtractor.TextExtractor object
@@ -23,7 +23,7 @@ csvExtractor.RegistrationKey = "demo"
 ' We should define what kind of tables we should detect.
 ' So we set min required number of columns to 3 ...
 tableDetector.DetectionMinNumberOfColumns = 3
-' ... and we set min required number of columns to 3
+' ... and we set min required number of rows to 3
 tableDetector.DetectionMinNumberOfRows = 3
 
 ' Load sample PDF document
