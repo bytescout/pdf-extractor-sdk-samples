@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \ASP Classic
 \ASP.NET
