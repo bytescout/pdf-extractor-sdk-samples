@@ -24,6 +24,7 @@
 \ASP.NET\ZUGFeRD Invoice Extraction
 \C#\Batch Processing
 \C#\Compare Documents
+\C#\Detect Lines
 \C#\Extract Attachments
 \C#\Extract Audio
 \C#\Extract Filled Form Data
@@ -53,6 +54,7 @@
 \C#\Merge Documents
 \C#\OCR (Optical Character Recognition)
 \C#\OCR Analyser
+\C#\Optimize PDF
 \C#\Parallel Processing
 \C#\PDF To CSV
 \C#\PDF To CSV By Pages
