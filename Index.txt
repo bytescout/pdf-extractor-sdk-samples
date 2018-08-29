@@ -66,6 +66,8 @@
 \C#\PDF To XML With Images
 \C#\PDF-A Compatibility Test
 \C#\Profiles
+\C#\Read Hindi Text
+\C#\Read Values from Form Fields
 \C#\Reduce Memory Usage
 \C#\Remove Empty Pages
 \C#\Remove Text
@@ -124,6 +126,8 @@
 \VB.NET\PDF To XML With Images
 \VB.NET\PDF-A Compatibility Test
 \VB.NET\Profiles
+\VB.NET\Read Hindi Text
+\VB.NET\Read Values from Form Fields
 \VB.NET\Reduce Memory Usage
 \VB.NET\Remove Empty Pages
 \VB.NET\Remove Text
