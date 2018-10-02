@@ -6,6 +6,7 @@
 \C++
 \Delphi
 \Microsoft Excel
+\Powershell
 \VB.NET
 \VBScript and VB6
 \_Web API
@@ -87,6 +88,7 @@
 \Delphi\Batch Processing
 \Delphi\PDF To CSV
 \Microsoft Excel\Extract Text From Coordinates
+\Powershell\PDF To JSON
 \VB.NET\Batch Processing
 \VB.NET\Compare Documents
 \VB.NET\Detect Lines
