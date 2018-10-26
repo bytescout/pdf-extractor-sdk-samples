@@ -25,9 +25,11 @@
 \ASP.NET\ZUGFeRD Invoice Extraction
 \C#\Batch Processing
 \C#\Compare Documents
+\C#\Data Masking
 \C#\Detect Lines
 \C#\Extract Attachments
 \C#\Extract Audio
+\C#\Extract CSV and Fill Database (SQL Server)
 \C#\Extract Filled Form Data
 \C#\Extract Images
 \C#\Extract Images by Page
@@ -75,7 +77,9 @@
 \C#\Remove Text
 \C#\Repair Text
 \C#\Rotate Document
+\C#\SearchablePDFMaker Progress Indication
 \C#\Split Document
+\C#\TextExtractor Progress Indication
 \C#\XFA Form To XML
 \C#\ZUGFeRD Invoice Extraction
 \C#\Index Documents In Folder\Files
@@ -91,9 +95,11 @@
 \Powershell\PDF To JSON
 \VB.NET\Batch Processing
 \VB.NET\Compare Documents
+\VB.NET\Data Masking
 \VB.NET\Detect Lines
 \VB.NET\Extract Attachments
 \VB.NET\Extract Audio
+\VB.NET\Extract CSV and Fill Database (SQL Server)
 \VB.NET\Extract Filled Form Data
 \VB.NET\Extract Images
 \VB.NET\Extract Images by Page
@@ -141,7 +147,9 @@
 \VB.NET\Remove Text
 \VB.NET\Repair Text
 \VB.NET\Rotate Document
+\VB.NET\SearchablePDFMaker Progress Indication
 \VB.NET\Split Document
+\VB.NET\TextExtractor Progress Indication
 \VB.NET\XFA Form To XML
 \VB.NET\ZUGFeRD Invoice Extraction
 \VB.NET\Index Documents In Folder\Files
