@@ -344,6 +344,7 @@
 \_Web API\PDF To Excel\PHP
 \_Web API\PDF To Excel\PowerShell
 \_Web API\PDF To Excel\VB.NET
+\_Web API\PDF To Excel\C#\Advanced Conversion Options
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From URL
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From URL Asynchronously
