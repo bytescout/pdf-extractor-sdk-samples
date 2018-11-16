@@ -3,6 +3,7 @@
 \ASP Classic
 \ASP.NET
 \C#
+\C# - .NET Core 2.0
 \C++
 \Delphi
 \Microsoft Excel
@@ -83,6 +84,8 @@
 \C#\XFA Form To XML
 \C#\ZUGFeRD Invoice Extraction
 \C#\Index Documents In Folder\Files
+\C# - .NET Core 2.0\OCR (Optical Character Recognition)
+\C# - .NET Core 2.0\Parallel Processing
 \C++\Compare Documents
 \C++\Extract Pages
 \C++\Extract Text
