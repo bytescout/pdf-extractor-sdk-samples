@@ -43,14 +43,18 @@
 \C#\Extract Text From Page Area
 \C#\Extract To Stream
 \C#\Extract Video
+\C#\Find Email Addresses (with Regex)
 \C#\Find Keyword And Extract Page
 \C#\Find Keyword And Extract Text
+\C#\Find Phone Number (with Regex)
+\C#\Find SSN Number (with Regex)
 \C#\Find Table And Extract As CSV
 \C#\Find Table And Extract As XML
 \C#\Find Text
 \C#\Find Text (Regex)
 \C#\Find Text - Smart Match
 \C#\Find Text With Hyphens
+\C#\Find US Address (with Regex)
 \C#\Index Documents In Folder
 \C#\Index PDF Files
 \C#\Invoice Parsing
@@ -115,14 +119,18 @@
 \VB.NET\Extract Text From Page Area
 \VB.NET\Extract To Stream
 \VB.NET\Extract Video
+\VB.NET\Find Email Addresses (with Regex)
 \VB.NET\Find Keyword And Extract Page
 \VB.NET\Find Keyword And Extract Text
+\VB.NET\Find Phone Number (with Regex)
+\VB.NET\Find SSN Number (with Regex)
 \VB.NET\Find Table And Extract As CSV
 \VB.NET\Find Table And Extract As XML
 \VB.NET\Find Text
 \VB.NET\Find Text (Regex)
 \VB.NET\Find Text - Smart Match
 \VB.NET\Find Text With Hyphens
+\VB.NET\Find US Address (with Regex)
 \VB.NET\Index Documents In Folder
 \VB.NET\Index PDF Files
 \VB.NET\Invoice Parsing
