@@ -8,7 +8,8 @@
 \Microsoft Excel
 \Powershell
 \VB.NET
-\VBScript and VB6
+\VB6
+\VBScript
 \_Web API
 \ASP Classic\Extract Text
 \ASP.NET\Batch Processing
@@ -24,6 +25,7 @@
 \ASP.NET\OCR (Optical Character Recognition)
 \ASP.NET\ZUGFeRD Invoice Extraction
 \C#\Batch Processing
+\C#\Check If OCR Is Required
 \C#\Compare Documents
 \C#\Data Masking
 \C#\Detect Lines
@@ -86,6 +88,7 @@
 \C#\TextExtractor Progress Indication
 \C#\XFA Form To XML
 \C#\ZUGFeRD Invoice Extraction
+\C#\Check If OCR Is Required\InputFiles
 \C#\Index Documents In Folder\Files
 \C++\Compare Documents
 \C++\Extract Pages
@@ -98,6 +101,7 @@
 \Microsoft Excel\Extract Text From Coordinates
 \Powershell\PDF To JSON
 \VB.NET\Batch Processing
+\VB.NET\Check If OCR Is Required
 \VB.NET\Compare Documents
 \VB.NET\Data Masking
 \VB.NET\Detect Lines
@@ -160,47 +164,55 @@
 \VB.NET\TextExtractor Progress Indication
 \VB.NET\XFA Form To XML
 \VB.NET\ZUGFeRD Invoice Extraction
+\VB.NET\Check If OCR Is Required\InputFiles
 \VB.NET\Index Documents In Folder\Files
-\VBScript and VB6\Batch Processing
-\VBScript and VB6\Compare Documents
-\VBScript and VB6\Extract Attachments
-\VBScript and VB6\Extract Image Coordinates By Page
-\VBScript and VB6\Extract Images
-\VBScript and VB6\Extract Images by Page
-\VBScript and VB6\Extract Images Coordinates
-\VBScript and VB6\Extract Info
-\VBScript and VB6\Extract Pages
-\VBScript and VB6\Extract Table Structure
-\VBScript and VB6\Extract Text
-\VBScript and VB6\Extract Text By Columns
-\VBScript and VB6\Extract Text By Pages
-\VBScript and VB6\Extract Text From Page Area
-\VBScript and VB6\Find Hyphenated Text
-\VBScript and VB6\Find Table And Extract As CSV
-\VBScript and VB6\Find Table And Extract As XML
-\VBScript and VB6\Find Text
-\VBScript and VB6\Find Text Using Regex
-\VBScript and VB6\Index PDF Files
-\VBScript and VB6\Make Searchable PDF
-\VBScript and VB6\Make Unsearchable PDF
-\VBScript and VB6\Merge Documents
-\VBScript and VB6\OCR (Optical Character Recognition)
-\VBScript and VB6\OCR Analyser
-\VBScript and VB6\PDF To CSV
-\VBScript and VB6\PDF To CSV By Pages
-\VBScript and VB6\PDF To JSON
-\VBScript and VB6\PDF To JSON With Images
-\VBScript and VB6\PDF To XFDF
-\VBScript and VB6\PDF To XLS
-\VBScript and VB6\PDF To XML
-\VBScript and VB6\PDF To XML With Images
-\VBScript and VB6\Profiles
-\VBScript and VB6\Reduce Memory Usage
-\VBScript and VB6\Remove Text
-\VBScript and VB6\Rotate Document
-\VBScript and VB6\Split Document
-\VBScript and VB6\XFA Form To XML
-\VBScript and VB6\ZUGFeRD Invoice Extraction
+\VB6\Merge PDF
+\VB6\PDF To CSV
+\VB6\PDF To JSON
+\VB6\PDF To Text
+\VB6\PDF To XML
+\VB6\Scanned PDF To Text
+\VB6\Split PDF
+\VBScript\Batch Processing
+\VBScript\Compare Documents
+\VBScript\Extract Attachments
+\VBScript\Extract Image Coordinates By Page
+\VBScript\Extract Images
+\VBScript\Extract Images by Page
+\VBScript\Extract Images Coordinates
+\VBScript\Extract Info
+\VBScript\Extract Pages
+\VBScript\Extract Table Structure
+\VBScript\Extract Text
+\VBScript\Extract Text By Columns
+\VBScript\Extract Text By Pages
+\VBScript\Extract Text From Page Area
+\VBScript\Find Hyphenated Text
+\VBScript\Find Table And Extract As CSV
+\VBScript\Find Table And Extract As XML
+\VBScript\Find Text
+\VBScript\Find Text Using Regex
+\VBScript\Index PDF Files
+\VBScript\Make Searchable PDF
+\VBScript\Make Unsearchable PDF
+\VBScript\Merge Documents
+\VBScript\OCR (Optical Character Recognition)
+\VBScript\OCR Analyser
+\VBScript\PDF To CSV
+\VBScript\PDF To CSV By Pages
+\VBScript\PDF To JSON
+\VBScript\PDF To JSON With Images
+\VBScript\PDF To XFDF
+\VBScript\PDF To XLS
+\VBScript\PDF To XML
+\VBScript\PDF To XML With Images
+\VBScript\Profiles
+\VBScript\Reduce Memory Usage
+\VBScript\Remove Text
+\VBScript\Rotate Document
+\VBScript\Split Document
+\VBScript\XFA Form To XML
+\VBScript\ZUGFeRD Invoice Extraction
 \_Web API\PDF Information
 \_Web API\PDF Make Searchable
 \_Web API\PDF Merging
@@ -354,6 +366,7 @@
 \_Web API\PDF To Excel\VB.NET
 \_Web API\PDF To Excel\C#\Advanced Conversion Options
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File (WinForms)
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From URL
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From URL Asynchronously
 \_Web API\PDF To Excel\C#\Convert PDF To XLSX From Uploaded File
@@ -379,6 +392,7 @@
 \_Web API\PDF To Excel\PowerShell\Convert PDF To XLSX From URL
 \_Web API\PDF To Excel\PowerShell\Convert PDF To XLSX From URL Asynchronously
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From Uploaded File (WinForms)
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL Asynchronously
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From Uploaded File
