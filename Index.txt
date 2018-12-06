@@ -93,6 +93,7 @@
 \C++\Compare Documents
 \C++\Extract Pages
 \C++\Extract Text
+\C++\Find Table And Extract As CSV
 \C++\Merge Documents
 \C++\OCR (Optical Character Recognition)
 \C++\Split Document
