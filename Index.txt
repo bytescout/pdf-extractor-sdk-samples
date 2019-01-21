@@ -1,7 +1,7 @@
 ## Index of source code examples:
 
 \ASP Classic
-\ASP.NET
+\ASP.NET C#
 \C#
 \C++
 \Delphi
@@ -10,62 +10,58 @@
 \VB.NET
 \VB6
 \VBScript
-\_Web API
-\ASP Classic\Extract Text
-\ASP.NET\Batch Processing
-\ASP.NET\Extract Attachments
-\ASP.NET\Extract Images
-\ASP.NET\Extract Text
-\ASP.NET\Extract Text By Columns
-\ASP.NET\Extract Text From Page Area
-\ASP.NET\Find Text
-\ASP.NET\Find Text With Hyphens
-\ASP.NET\Get Document Information
-\ASP.NET\Make PDF Unsearchable
-\ASP.NET\OCR (Optical Character Recognition)
-\ASP.NET\ZUGFeRD Invoice Extraction
-\C#\Batch Processing
-\C#\Check If OCR Is Required
-\C#\Compare Documents
-\C#\Data Masking
-\C#\Detect Lines
-\C#\Extract Attachments
-\C#\Extract Audio
-\C#\Extract CSV and Fill Database (SQL Server)
-\C#\Extract Filled Form Data
-\C#\Extract Images
-\C#\Extract Images by Page
-\C#\Extract Info
-\C#\Extract Pages
-\C#\Extract Table Structure
-\C#\Extract Text
-\C#\Extract Text By Columns
-\C#\Extract Text By Pages
-\C#\Extract Text From Page Area
-\C#\Extract To Stream
-\C#\Extract Video
-\C#\Find Email Addresses (with Regex)
-\C#\Find Keyword And Extract Page
-\C#\Find Keyword And Extract Text
-\C#\Find Phone Number (with Regex)
-\C#\Find SSN Number (with Regex)
-\C#\Find Table And Extract As CSV
-\C#\Find Table And Extract As XML
-\C#\Find Text
-\C#\Find Text (Regex)
-\C#\Find Text - Smart Match
-\C#\Find Text With Hyphens
-\C#\Find US Address (with Regex)
-\C#\Index Documents In Folder
+\ASP Classic\Extract Text from PDF
+\ASP.NET C#\Batch Process PDF to Text
+\ASP.NET C#\Extract Attachments from PDF
+\ASP.NET C#\Extract Images from PDF
+\ASP.NET C#\Extract Text By Columns from PDF
+\ASP.NET C#\Extract Text From Page Area in PDF
+\ASP.NET C#\Extract Text from PDF
+\ASP.NET C#\Find Text in PDF
+\ASP.NET C#\Find Text With Hyphens in PDF
+\ASP.NET C#\Get PDF Document Information
+\ASP.NET C#\Make PDF Unsearchable
+\ASP.NET C#\OCR (Optical Character Recognition) in PDF
+\ASP.NET C#\ZUGFeRD Invoice Extraction
+\C#\Check If OCR Is Required for PDF
+\C#\Compare PDF Documents
+\C#\Data Masking in PDF
+\C#\Detect Lines in PDF
+\C#\Extract Attachments from PDF
+\C#\Extract Audio from PDF
+\C#\Extract CSV from PDF and Fill Database (SQL Server)
+\C#\Extract Filled PDF Form Data
+\C#\Extract Images by Page from PDF
+\C#\Extract Images from PDF
+\C#\Extract PDF document Info
+\C#\Extract PDF Pages
+\C#\Extract PDF text To Stream
+\C#\Extract Table Structure from PDF
+\C#\Extract Text By Columns from PDF
+\C#\Extract Text from PDF
+\C#\Extract Video from PDF
+\C#\Find Email Addresses in PDF with Regex
+\C#\Find Keyword And Extract Page in PDF
+\C#\Find Keyword And Extract Text in PDF
+\C#\Find PDF Table And Extract As CSV
+\C#\Find PDF Table And Extract As XML
+\C#\Find Phone Number in PDF with Regex
+\C#\Find SSN in PDF with Regex
+\C#\Find Text in PDF
+\C#\Find Text in PDF using Regex
+\C#\Find Text in PDF With Hyphens
+\C#\Find Text in PDF with Smart Match
+\C#\Find US Address in PDF with Regex
+\C#\Index PDF Documents In Folder
 \C#\Index PDF Files
-\C#\Invoice Parsing
 \C#\Make Searchable PDF
 \C#\Make Unsearchable PDF
-\C#\Merge Documents
-\C#\OCR (Optical Character Recognition)
+\C#\Merge PDF Documents
 \C#\OCR Analyser
 \C#\Optimize PDF
-\C#\Parallel Processing
+\C#\PDF and OCR (Optical Character Recognition)
+\C#\PDF files Parallel Processing
+\C#\PDF Invoice Parsing
 \C#\PDF To CSV
 \C#\PDF To CSV By Pages
 \C#\PDF To JSON
@@ -74,82 +70,83 @@
 \C#\PDF To XLS
 \C#\PDF To XML
 \C#\PDF To XML With Images
+\C#\PDF XFA Form To XML
 \C#\PDF-A Compatibility Test
-\C#\Profiles
-\C#\Read Hindi Text
-\C#\Read Values from Form Fields
-\C#\Reduce Memory Usage
-\C#\Remove Empty Pages
-\C#\Remove Text
-\C#\Repair Text
-\C#\Rotate Document
+\C#\Read Hindi Text from PDF
+\C#\Read Values from PDF Form Fields
+\C#\Reduce Memory Usage for PDF to Text
+\C#\Remove Empty Pages from PDF
+\C#\Remove Text from PDF
+\C#\Repair Text in PDF
+\C#\Rotate PDF Document
 \C#\SearchablePDFMaker Progress Indication
-\C#\Split Document
+\C#\Set Configuration Profiles
+\C#\Split PDF Document
 \C#\TextExtractor Progress Indication
-\C#\XFA Form To XML
 \C#\ZUGFeRD Invoice Extraction
-\C#\Check If OCR Is Required\InputFiles
-\C#\Index Documents In Folder\Files
-\C++\Compare Documents
-\C++\Extract Pages
-\C++\Extract Text
-\C++\Find Table And Extract As CSV
-\C++\Merge Documents
-\C++\OCR (Optical Character Recognition)
-\C++\Split Document
-\Delphi\Batch Processing
-\Delphi\PDF To CSV
-\Microsoft Excel\Extract Text From Coordinates
+\C#\Check If OCR Is Required for PDF\InputFiles
+\C#\Index PDF Documents In Folder\Files
+\C++\Compare PDF Documents
+\C++\Extract PDF Pages
+\C++\Extract Text from PDF
+\C++\Find Table And Extract As CSV from PDF
+\C++\Merge PDF Documents
+\C++\PDF and OCR (Optical Character Recognition)
+\C++\Split PDF Document
+\Delphi\Convert PDF To CSV
+\Delphi\PDF Batch Processing
+\Microsoft Excel\Extract Text From Coordinates from PDF
 \Powershell\PDF To JSON
-\VB.NET\Batch Processing
-\VB.NET\Check If OCR Is Required
-\VB.NET\Compare Documents
-\VB.NET\Data Masking
-\VB.NET\Detect Lines
-\VB.NET\Extract Attachments
-\VB.NET\Extract Audio
-\VB.NET\Extract CSV and Fill Database (SQL Server)
-\VB.NET\Extract Filled Form Data
-\VB.NET\Extract Images
-\VB.NET\Extract Images by Page
-\VB.NET\Extract Info
-\VB.NET\Extract Pages
-\VB.NET\Extract Table Structure
-\VB.NET\Extract Text
-\VB.NET\Extract Text By Columns
-\VB.NET\Extract Text By Pages
-\VB.NET\Extract Text From Page Area
-\VB.NET\Extract To Stream
-\VB.NET\Extract Video
-\VB.NET\Find Email Addresses (with Regex)
-\VB.NET\Find Keyword And Extract Page
-\VB.NET\Find Keyword And Extract Text
-\VB.NET\Find Phone Number (with Regex)
-\VB.NET\Find SSN Number (with Regex)
-\VB.NET\Find Table And Extract As CSV
-\VB.NET\Find Table And Extract As XML
-\VB.NET\Find Text
-\VB.NET\Find Text (Regex)
-\VB.NET\Find Text - Smart Match
-\VB.NET\Find Text With Hyphens
-\VB.NET\Find US Address (with Regex)
-\VB.NET\Index Documents In Folder
+\VB.NET\Check If OCR Is Required for PDF
+\VB.NET\Compare PDF Documents
+\VB.NET\convert PDF To CSV
+\VB.NET\Convert PDF To CSV By Pages
+\VB.NET\convert PDF To JSON
+\VB.NET\convert PDF To JSON With Images
+\VB.NET\convert PDF To XFDF
+\VB.NET\convert PDF To XLS
+\VB.NET\convert PDF To XML
+\VB.NET\convert XFA Form To XML in PDF
+\VB.NET\Data Masking in PDF
+\VB.NET\Detect Lines in PDF
+\VB.NET\Extract Attachments from PDF
+\VB.NET\Extract Audio from PDF
+\VB.NET\Extract CSV from PDF and Fill Database in SQL Server
+\VB.NET\Extract Filled PDF Form Data
+\VB.NET\Extract Images by Page from PDF
+\VB.NET\Extract Images from PDF
+\VB.NET\Extract Info about PDF
+\VB.NET\Extract Pages from PDF
+\VB.NET\Extract PDF to Text as Stream
+\VB.NET\Extract Table Structure from PDF
+\VB.NET\Extract Text By Columns from PDF
+\VB.NET\Extract Text By Pages from PDF
+\VB.NET\Extract Text From Page Area in PDF
+\VB.NET\Extract Text from PDF
+\VB.NET\Extract Video from PDF
+\VB.NET\Find Email Addresses in PDF using Regex
+\VB.NET\Find Keyword in PDF And Extract Page
+\VB.NET\Find Keyword in PDF And Extract Text
+\VB.NET\Find Phone Number in PDF with Regex
+\VB.NET\Find SSN Number in PDF with Regex
+\VB.NET\Find Table in PDF And Extract As CSV
+\VB.NET\Find Table in PDF And Extract As XML
+\VB.NET\Find Text in PDF
+\VB.NET\Find Text in PDF with Regex
+\VB.NET\Find Text in PDF with Smart Match
+\VB.NET\Find Text With Hyphens in PDF
+\VB.NET\Find US Address in PDF with Regex
+\VB.NET\Index PDF Documents In Folder
 \VB.NET\Index PDF Files
-\VB.NET\Invoice Parsing
 \VB.NET\Make Searchable PDF
 \VB.NET\Make Unsearchable PDF
-\VB.NET\Merge Documents
-\VB.NET\OCR (Optical Character Recognition)
-\VB.NET\OCR Analyser
+\VB.NET\Merge PDF Documents
+\VB.NET\OCR (Optical Character Recognition) and PDF
+\VB.NET\OCR Analyser in PDF
 \VB.NET\Optimize PDF
-\VB.NET\Parallel Processing
-\VB.NET\PDF To CSV
-\VB.NET\PDF To CSV By Pages
-\VB.NET\PDF To JSON
-\VB.NET\PDF To JSON With Images
-\VB.NET\PDF To XFDF
-\VB.NET\PDF To XLS
-\VB.NET\PDF To XML
+\VB.NET\Parallel Processing of PDF files
+\VB.NET\PDF files Batch Processing
+\VB.NET\PDF Invoice Parsing
 \VB.NET\PDF To XML With Images
 \VB.NET\PDF-A Compatibility Test
 \VB.NET\Profiles
@@ -163,311 +160,53 @@
 \VB.NET\SearchablePDFMaker Progress Indication
 \VB.NET\Split Document
 \VB.NET\TextExtractor Progress Indication
-\VB.NET\XFA Form To XML
 \VB.NET\ZUGFeRD Invoice Extraction
-\VB.NET\Check If OCR Is Required\InputFiles
-\VB.NET\Index Documents In Folder\Files
+\VB.NET\Check If OCR Is Required for PDF\InputFiles
+\VB.NET\Index PDF Documents In Folder\Files
+\VB6\convert PDF To CSV
+\VB6\convert PDF To JSON
+\VB6\convert PDF To Text
+\VB6\convert PDF To XML
 \VB6\Merge PDF
-\VB6\PDF To CSV
-\VB6\PDF To JSON
-\VB6\PDF To Text
-\VB6\PDF To XML
 \VB6\Scanned PDF To Text
 \VB6\Split PDF
-\VBScript\Batch Processing
-\VBScript\Compare Documents
-\VBScript\Extract Attachments
-\VBScript\Extract Image Coordinates By Page
-\VBScript\Extract Images
-\VBScript\Extract Images by Page
-\VBScript\Extract Images Coordinates
-\VBScript\Extract Info
-\VBScript\Extract Pages
-\VBScript\Extract Table Structure
-\VBScript\Extract Text
-\VBScript\Extract Text By Columns
-\VBScript\Extract Text By Pages
-\VBScript\Extract Text From Page Area
-\VBScript\Find Hyphenated Text
-\VBScript\Find Table And Extract As CSV
-\VBScript\Find Table And Extract As XML
-\VBScript\Find Text
-\VBScript\Find Text Using Regex
+\VBScript\Compare PDF Documents
+\VBScript\convert PDF To CSV
+\VBScript\convert PDF To CSV By Pages
+\VBScript\convert PDF To JSON
+\VBScript\convert PDF To JSON With Images
+\VBScript\convert PDF To XFDF
+\VBScript\convert PDF To XLS
+\VBScript\convert PDF To XML
+\VBScript\convert PDF To XML With Images
+\VBScript\Extract Attachments from PDF
+\VBScript\Extract Image Coordinates By Page from PDF
+\VBScript\Extract Images by Page from PDF
+\VBScript\Extract Images Coordinates from PDF
+\VBScript\Extract Images from PDF
+\VBScript\Extract Pages from PDF
+\VBScript\Extract pdf Info from PDF
+\VBScript\Extract Table Structure from PDF
+\VBScript\Extract Text By Columns from PDF
+\VBScript\Extract Text By Pages from PDF
+\VBScript\Extract Text From Page Area from PDF
+\VBScript\Extract Text from PDF
+\VBScript\Find Hyphenated Text in PDF
+\VBScript\Find PDF Table And Extract As CSV
+\VBScript\Find PDF Table And Extract As XML
+\VBScript\Find Text in PDF
+\VBScript\Find Text in PDF Using Regex
 \VBScript\Index PDF Files
 \VBScript\Make Searchable PDF
 \VBScript\Make Unsearchable PDF
-\VBScript\Merge Documents
-\VBScript\OCR (Optical Character Recognition)
-\VBScript\OCR Analyser
-\VBScript\PDF To CSV
-\VBScript\PDF To CSV By Pages
-\VBScript\PDF To JSON
-\VBScript\PDF To JSON With Images
-\VBScript\PDF To XFDF
-\VBScript\PDF To XLS
-\VBScript\PDF To XML
-\VBScript\PDF To XML With Images
-\VBScript\Profiles
-\VBScript\Reduce Memory Usage
-\VBScript\Remove Text
-\VBScript\Rotate Document
-\VBScript\Split Document
-\VBScript\XFA Form To XML
+\VBScript\Merge PDF Documents
+\VBScript\OCR Analyser for PDF
+\VBScript\PDF Extraction Profiles
+\VBScript\PDF files Batch Processing
+\VBScript\PDF OCR (Optical Character Recognition)
+\VBScript\PDF XFA Form To XML
+\VBScript\Reduce Memory Usage for PDF Extraction
+\VBScript\Remove Text from PDF
+\VBScript\Rotate PDF Document
+\VBScript\Split PDF Document
 \VBScript\ZUGFeRD Invoice Extraction
-\_Web API\PDF Information
-\_Web API\PDF Make Searchable
-\_Web API\PDF Merging
-\_Web API\PDF Optimization
-\_Web API\PDF Splitting
-\_Web API\PDF To CSV
-\_Web API\PDF To Excel
-\_Web API\PDF To JSON
-\_Web API\PDF To Text
-\_Web API\PDF To XML
-\_Web API\PDF Information\C#
-\_Web API\PDF Information\cURL
-\_Web API\PDF Information\Java
-\_Web API\PDF Information\JavaScript
-\_Web API\PDF Information\PHP
-\_Web API\PDF Information\PowerShell
-\_Web API\PDF Information\VB.NET
-\_Web API\PDF Information\C#\Get PDF Info From Uploaded File
-\_Web API\PDF Information\C#\Get PDF Info From URL
-\_Web API\PDF Information\cURL\Get PDF Info From URL
-\_Web API\PDF Information\Java\Get PDF Info From Uploaded File
-\_Web API\PDF Information\Java\Get PDF Info From URL
-\_Web API\PDF Information\JavaScript\Get PDF Info From Uploaded File (Node.js)
-\_Web API\PDF Information\JavaScript\Get PDF Info From URL (Node.js)
-\_Web API\PDF Information\PHP\Get PDF Info From Uploaded File
-\_Web API\PDF Information\PowerShell\Get PDF Info From Uploaded File
-\_Web API\PDF Information\PowerShell\Get PDF Info From URL
-\_Web API\PDF Information\VB.NET\Get PDF Info From Uploaded File
-\_Web API\PDF Information\VB.NET\Get PDF Info From URL
-\_Web API\PDF Make Searchable\C#
-\_Web API\PDF Make Searchable\cURL
-\_Web API\PDF Make Searchable\Java
-\_Web API\PDF Make Searchable\JavaScript
-\_Web API\PDF Make Searchable\PHP
-\_Web API\PDF Make Searchable\PowerShell
-\_Web API\PDF Make Searchable\VB.NET
-\_Web API\PDF Make Searchable\C#\Make Searchable PDF From Uploaded File
-\_Web API\PDF Make Searchable\C#\Make Searchable PDF From URL
-\_Web API\PDF Make Searchable\C#\Make Searchable PDF From URL Asynchronously
-\_Web API\PDF Make Searchable\cURL\Make Searchable PDF From URL
-\_Web API\PDF Make Searchable\Java\Make Searchable PDF From Uploaded File
-\_Web API\PDF Make Searchable\Java\Make Searchable PDF From URL
-\_Web API\PDF Make Searchable\JavaScript\Make Searchable PDF From Uploaded File (Node.js)
-\_Web API\PDF Make Searchable\JavaScript\Make Searchable PDF From URL (Node.js)
-\_Web API\PDF Make Searchable\PHP\Make Searchable PDF Asynchronously
-\_Web API\PDF Make Searchable\PHP\Make Searchable PDF From Uploaded File
-\_Web API\PDF Make Searchable\PowerShell\Make Searchable PDF From Uploaded File
-\_Web API\PDF Make Searchable\PowerShell\Make Searchable PDF From URL
-\_Web API\PDF Make Searchable\PowerShell\Make Searchable PDF From URL Asynchronously
-\_Web API\PDF Make Searchable\VB.NET\Make Searchable PDF From Uploaded File
-\_Web API\PDF Make Searchable\VB.NET\Make Searchable PDF From URL
-\_Web API\PDF Make Searchable\VB.NET\Make Searchable PDF From URL Asynchronously
-\_Web API\PDF Merging\C#
-\_Web API\PDF Merging\cURL
-\_Web API\PDF Merging\Java
-\_Web API\PDF Merging\JavaScript
-\_Web API\PDF Merging\PHP
-\_Web API\PDF Merging\PowerShell
-\_Web API\PDF Merging\VB.NET
-\_Web API\PDF Merging\C#\Merge PDF Documents From Uploaded Files
-\_Web API\PDF Merging\C#\Merge PDF Documents From URLs
-\_Web API\PDF Merging\C#\Merge PDF Documents From URLs Asynchronously
-\_Web API\PDF Merging\cURL\Merge PDF Documents From URLs
-\_Web API\PDF Merging\Java\Merge PDF Documents From Uploaded Files
-\_Web API\PDF Merging\Java\Merge PDF Documents From URLs
-\_Web API\PDF Merging\JavaScript\Merge PDF Documents From URLs (Node.js)
-\_Web API\PDF Merging\PHP\Merge PDF Documents Asynchronously
-\_Web API\PDF Merging\PHP\Merge PDF Documents From Uploaded Files
-\_Web API\PDF Merging\PowerShell\Merge PDF Documents From Uploaded Files
-\_Web API\PDF Merging\PowerShell\Merge PDF Documents From URLs
-\_Web API\PDF Merging\PowerShell\Merge PDF Documents From URLs Asynchronously
-\_Web API\PDF Merging\VB.NET\Merge PDF Documents From Uploaded Files
-\_Web API\PDF Merging\VB.NET\Merge PDF Documents From URLs
-\_Web API\PDF Merging\VB.NET\Merge PDF Documents From URLs Asynchronously
-\_Web API\PDF Optimization\C#
-\_Web API\PDF Optimization\cURL
-\_Web API\PDF Optimization\Java
-\_Web API\PDF Optimization\JavaScript
-\_Web API\PDF Optimization\PHP
-\_Web API\PDF Optimization\PowerShell
-\_Web API\PDF Optimization\VB.NET
-\_Web API\PDF Optimization\C#\Optimize PDF From Uploaded File
-\_Web API\PDF Optimization\C#\Optimize PDF From URL
-\_Web API\PDF Optimization\C#\Optimize PDF From URL Asynchronously
-\_Web API\PDF Optimization\cURL\Optimize PDF From URL
-\_Web API\PDF Optimization\Java\Optimize PDF From Uploaded File
-\_Web API\PDF Optimization\Java\Optimize PDF From URL
-\_Web API\PDF Optimization\JavaScript\Optimize PDF From Uploaded File (Node.js)
-\_Web API\PDF Optimization\JavaScript\Optimize PDF From URL (Node.js)
-\_Web API\PDF Optimization\PHP\Optimize PDF Asynchronously
-\_Web API\PDF Optimization\PHP\Optimize PDF From Uploaded File
-\_Web API\PDF Optimization\PowerShell\Optimize PDF From Uploaded File
-\_Web API\PDF Optimization\PowerShell\Optimize PDF From URL
-\_Web API\PDF Optimization\PowerShell\Optimize PDF From URL Asynchronously
-\_Web API\PDF Optimization\VB.NET\Optimize PDF From Uploaded File
-\_Web API\PDF Optimization\VB.NET\Optimize PDF From URL
-\_Web API\PDF Optimization\VB.NET\Optimize PDF From URL Asynchronously
-\_Web API\PDF Splitting\C#
-\_Web API\PDF Splitting\cURL
-\_Web API\PDF Splitting\Java
-\_Web API\PDF Splitting\JavaScript
-\_Web API\PDF Splitting\PHP
-\_Web API\PDF Splitting\PowerShell
-\_Web API\PDF Splitting\VB.NET
-\_Web API\PDF Splitting\C#\Split PDF From Uploaded File
-\_Web API\PDF Splitting\C#\Split PDF From URL
-\_Web API\PDF Splitting\C#\Split PDF From URL Asynchronously
-\_Web API\PDF Splitting\cURL\Split PDF From URL
-\_Web API\PDF Splitting\Java\Split PDF From Uploaded File
-\_Web API\PDF Splitting\Java\Split PDF From URL
-\_Web API\PDF Splitting\JavaScript\Split PDF From Uploaded File (Node.js)
-\_Web API\PDF Splitting\JavaScript\Split PDF From URL (Node.js)
-\_Web API\PDF Splitting\PHP\Split PDF Asynchronously
-\_Web API\PDF Splitting\PHP\Split PDF From Uploaded File
-\_Web API\PDF Splitting\PowerShell\Split PDF From Uploaded File
-\_Web API\PDF Splitting\PowerShell\Split PDF From URL
-\_Web API\PDF Splitting\PowerShell\Split PDF From URL Asynchronously
-\_Web API\PDF Splitting\VB.NET\Split PDF From Uploaded File
-\_Web API\PDF Splitting\VB.NET\Split PDF From URL
-\_Web API\PDF Splitting\VB.NET\Split PDF From URL Asynchronously
-\_Web API\PDF To CSV\C#
-\_Web API\PDF To CSV\cURL
-\_Web API\PDF To CSV\Java
-\_Web API\PDF To CSV\JavaScript
-\_Web API\PDF To CSV\PHP
-\_Web API\PDF To CSV\PowerShell
-\_Web API\PDF To CSV\VB.NET
-\_Web API\PDF To CSV\C#\Convert PDF To CSV From Uploaded File
-\_Web API\PDF To CSV\C#\Convert PDF To CSV From URL
-\_Web API\PDF To CSV\C#\Convert PDF To CSV From URL Asynchronously
-\_Web API\PDF To CSV\cURL\Convert PDF To CSV From URL
-\_Web API\PDF To CSV\Java\Convert PDF To CSV From Uploaded File
-\_Web API\PDF To CSV\Java\Convert PDF To CSV From URL
-\_Web API\PDF To CSV\JavaScript\Convert PDF To CSV From Uploaded File (Node.js)
-\_Web API\PDF To CSV\JavaScript\Convert PDF To CSV From URL (Node.js)
-\_Web API\PDF To CSV\JavaScript\jQuery
-\_Web API\PDF To CSV\PHP\Convert PDF To CSV Asynchronously
-\_Web API\PDF To CSV\PHP\Convert PDF To CSV From Uploaded File
-\_Web API\PDF To CSV\PowerShell\Convert PDF To CSV From Uploaded File
-\_Web API\PDF To CSV\PowerShell\Convert PDF To CSV From URL
-\_Web API\PDF To CSV\PowerShell\Convert PDF To CSV From URL Asynchronously
-\_Web API\PDF To CSV\VB.NET\Convert PDF To CSV From Uploaded File
-\_Web API\PDF To CSV\VB.NET\Convert PDF To CSV From URL
-\_Web API\PDF To CSV\VB.NET\Convert PDF To CSV From URL Asynchronously
-\_Web API\PDF To Excel\C#
-\_Web API\PDF To Excel\cURL
-\_Web API\PDF To Excel\Java
-\_Web API\PDF To Excel\JavaScript
-\_Web API\PDF To Excel\PHP
-\_Web API\PDF To Excel\PowerShell
-\_Web API\PDF To Excel\VB.NET
-\_Web API\PDF To Excel\C#\Advanced Conversion Options
-\_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File
-\_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File (WinForms)
-\_Web API\PDF To Excel\C#\Convert PDF To XLS From URL
-\_Web API\PDF To Excel\C#\Convert PDF To XLS From URL Asynchronously
-\_Web API\PDF To Excel\C#\Convert PDF To XLSX From Uploaded File
-\_Web API\PDF To Excel\C#\Convert PDF To XLSX From URL
-\_Web API\PDF To Excel\C#\Convert PDF To XLSX From URL Asynchronously
-\_Web API\PDF To Excel\cURL\Convert PDF To XLS From URL
-\_Web API\PDF To Excel\cURL\Convert PDF To XLSX From URL
-\_Web API\PDF To Excel\Java\Convert PDF To XLS From Uploaded File
-\_Web API\PDF To Excel\Java\Convert PDF To XLS From URL
-\_Web API\PDF To Excel\Java\Convert PDF To XLSX From Uploaded File
-\_Web API\PDF To Excel\Java\Convert PDF To XLSX From URL
-\_Web API\PDF To Excel\JavaScript\Convert PDF To XLS From Uploaded File (Node.js)
-\_Web API\PDF To Excel\JavaScript\Convert PDF To XLS From URL (Node.js)
-\_Web API\PDF To Excel\JavaScript\Convert PDF To XLSX From Uploaded File (Node.js)
-\_Web API\PDF To Excel\JavaScript\Convert PDF To XLSX From URL (Node.js)
-\_Web API\PDF To Excel\JavaScript\jQuery
-\_Web API\PDF To Excel\PHP\Convert PDF To XLSX Asynchronously
-\_Web API\PDF To Excel\PHP\Convert PDF To XLSX From Uploaded File
-\_Web API\PDF To Excel\PowerShell\Convert PDF To XLS From Uploaded File
-\_Web API\PDF To Excel\PowerShell\Convert PDF To XLS From URL
-\_Web API\PDF To Excel\PowerShell\Convert PDF To XLS From URL Asynchronously
-\_Web API\PDF To Excel\PowerShell\Convert PDF To XLSX From Uploaded File
-\_Web API\PDF To Excel\PowerShell\Convert PDF To XLSX From URL
-\_Web API\PDF To Excel\PowerShell\Convert PDF To XLSX From URL Asynchronously
-\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From Uploaded File
-\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From Uploaded File (WinForms)
-\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL
-\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL Asynchronously
-\_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From Uploaded File
-\_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From URL
-\_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From URL Asynchronously
-\_Web API\PDF To JSON\C#
-\_Web API\PDF To JSON\cURL
-\_Web API\PDF To JSON\Java
-\_Web API\PDF To JSON\JavaScript
-\_Web API\PDF To JSON\PHP
-\_Web API\PDF To JSON\PowerShell
-\_Web API\PDF To JSON\VB.NET
-\_Web API\PDF To JSON\C#\Convert PDF To JSON From Uploaded File
-\_Web API\PDF To JSON\C#\Convert PDF To JSON From URL
-\_Web API\PDF To JSON\C#\Convert PDF To JSON From URL Asynchronously
-\_Web API\PDF To JSON\cURL\Convert PDF To JSON From URL
-\_Web API\PDF To JSON\Java\Convert PDF To JSON From Uploaded File
-\_Web API\PDF To JSON\Java\Convert PDF To JSON From URL
-\_Web API\PDF To JSON\JavaScript\Convert PDF To JSON From Uploaded File (Node.js)
-\_Web API\PDF To JSON\JavaScript\Convert PDF To JSON From URL (Node.js)
-\_Web API\PDF To JSON\JavaScript\jQuery
-\_Web API\PDF To JSON\PHP\Convert PDF To JSON Asynchronously
-\_Web API\PDF To JSON\PHP\Convert PDF To JSON From Uploaded File
-\_Web API\PDF To JSON\PowerShell\Convert PDF To JSON From Uploaded File
-\_Web API\PDF To JSON\PowerShell\Convert PDF To JSON From URL
-\_Web API\PDF To JSON\PowerShell\Convert PDF To JSON From URL Asynchronously
-\_Web API\PDF To JSON\VB.NET\Convert PDF To JSON From Uploaded File
-\_Web API\PDF To JSON\VB.NET\Convert PDF To JSON From URL
-\_Web API\PDF To JSON\VB.NET\Convert PDF To JSON From URL Asynchronously
-\_Web API\PDF To Text\C#
-\_Web API\PDF To Text\cURL
-\_Web API\PDF To Text\Java
-\_Web API\PDF To Text\JavaScript
-\_Web API\PDF To Text\PHP
-\_Web API\PDF To Text\PowerShell
-\_Web API\PDF To Text\VB.NET
-\_Web API\PDF To Text\C#\Convert PDF To Text From Uploaded File
-\_Web API\PDF To Text\C#\Convert PDF To Text From URL
-\_Web API\PDF To Text\C#\Convert PDF To Text From URL Asynchronously
-\_Web API\PDF To Text\cURL\Convert PDF To Text From URL
-\_Web API\PDF To Text\Java\Convert PDF To Text From Uploaded File
-\_Web API\PDF To Text\Java\Convert PDF To Text From URL
-\_Web API\PDF To Text\JavaScript\Convert PDF To Text From Uploaded File (Node.js)
-\_Web API\PDF To Text\JavaScript\Convert PDF To Text From URL (Node.js)
-\_Web API\PDF To Text\JavaScript\jQuery
-\_Web API\PDF To Text\PHP\Convert PDF To Text Asynchronously
-\_Web API\PDF To Text\PHP\Convert PDF To Text From Uploaded File
-\_Web API\PDF To Text\PowerShell\Convert PDF To Text From Uploaded File
-\_Web API\PDF To Text\PowerShell\Convert PDF To Text From URL
-\_Web API\PDF To Text\PowerShell\Convert PDF To Text From URL Asynchronously
-\_Web API\PDF To Text\VB.NET\Convert PDF To Text From Uploaded File
-\_Web API\PDF To Text\VB.NET\Convert PDF To Text From URL
-\_Web API\PDF To Text\VB.NET\Convert PDF To Text From URL Asynchronously
-\_Web API\PDF To XML\C#
-\_Web API\PDF To XML\cURL
-\_Web API\PDF To XML\Java
-\_Web API\PDF To XML\JavaScript
-\_Web API\PDF To XML\PHP
-\_Web API\PDF To XML\PowerShell
-\_Web API\PDF To XML\VB.NET
-\_Web API\PDF To XML\C#\Convert PDF To XML From Uploaded File
-\_Web API\PDF To XML\C#\Convert PDF To XML From URL
-\_Web API\PDF To XML\C#\Convert PDF To XML From URL Asynchronously
-\_Web API\PDF To XML\cURL\Convert PDF To XML From URL
-\_Web API\PDF To XML\Java\Convert PDF To XML From Uploaded File
-\_Web API\PDF To XML\Java\Convert PDF To XML From URL
-\_Web API\PDF To XML\JavaScript\Convert PDF To XML From Uploaded File (Node.js)
-\_Web API\PDF To XML\JavaScript\Convert PDF To XML From URL (Node.js)
-\_Web API\PDF To XML\JavaScript\jQuery
-\_Web API\PDF To XML\PHP\Convert PDF To XML Asynchronously
-\_Web API\PDF To XML\PHP\Convert PDF To XML From Uploaded File
-\_Web API\PDF To XML\PowerShell\Convert PDF To XML From Uploaded File
-\_Web API\PDF To XML\PowerShell\Convert PDF To XML From URL
-\_Web API\PDF To XML\PowerShell\Convert PDF To XML From URL Asynchronously
-\_Web API\PDF To XML\VB.NET\Convert PDF To XML From Uploaded File
-\_Web API\PDF To XML\VB.NET\Convert PDF To XML From URL
-\_Web API\PDF To XML\VB.NET\Convert PDF To XML From URL Asynchronously
