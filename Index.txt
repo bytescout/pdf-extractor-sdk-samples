@@ -79,6 +79,10 @@
 \C#\Remove Text from PDF
 \C#\Repair Text in PDF
 \C#\Rotate PDF Document
+\C#\Scanned PDF to CSV
+\C#\Scanned PDF to JSON
+\C#\Scanned PDF to Text
+\C#\Scanned PDF to XML
 \C#\SearchablePDFMaker Progress Indication
 \C#\Set Configuration Profiles
 \C#\Split PDF Document
@@ -157,6 +161,10 @@
 \VB.NET\Remove Text
 \VB.NET\Repair Text
 \VB.NET\Rotate Document
+\VB.NET\Scanned PDF To CSV
+\VB.NET\Scanned PDF To JSON
+\VB.NET\Scanned PDF To Text
+\VB.NET\Scanned PDF To XML
 \VB.NET\SearchablePDFMaker Progress Indication
 \VB.NET\Split Document
 \VB.NET\TextExtractor Progress Indication
