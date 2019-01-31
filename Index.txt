@@ -106,14 +106,14 @@
 \Powershell\PDF To JSON
 \VB.NET\Check If OCR Is Required for PDF
 \VB.NET\Compare PDF Documents
-\VB.NET\convert PDF To CSV
+\VB.NET\Convert PDF To CSV
 \VB.NET\Convert PDF To CSV By Pages
-\VB.NET\convert PDF To JSON
-\VB.NET\convert PDF To JSON With Images
-\VB.NET\convert PDF To XFDF
-\VB.NET\convert PDF To XLS
-\VB.NET\convert PDF To XML
-\VB.NET\convert XFA Form To XML in PDF
+\VB.NET\Convert PDF To JSON
+\VB.NET\Convert PDF To JSON With Images
+\VB.NET\Convert PDF To XFDF
+\VB.NET\Convert PDF To XLS
+\VB.NET\Convert PDF To XML
+\VB.NET\Convert XFA Form To XML in PDF
 \VB.NET\Data Masking in PDF
 \VB.NET\Detect Lines in PDF
 \VB.NET\Extract Attachments from PDF
@@ -174,22 +174,22 @@
 \VB.NET\ZUGFeRD Invoice Extraction
 \VB.NET\Check If OCR Is Required for PDF\InputFiles
 \VB.NET\Index PDF Documents In Folder\Files
-\VB6\convert PDF To CSV
-\VB6\convert PDF To JSON
-\VB6\convert PDF To Text
-\VB6\convert PDF To XML
+\VB6\Convert PDF To CSV
+\VB6\Convert PDF To JSON
+\VB6\Convert PDF To Text
+\VB6\Convert PDF To XML
 \VB6\Merge PDF
 \VB6\Scanned PDF To Text
 \VB6\Split PDF
 \VBScript\Compare PDF Documents
-\VBScript\convert PDF To CSV
-\VBScript\convert PDF To CSV By Pages
-\VBScript\convert PDF To JSON
-\VBScript\convert PDF To JSON With Images
-\VBScript\convert PDF To XFDF
-\VBScript\convert PDF To XLS
-\VBScript\convert PDF To XML
-\VBScript\convert PDF To XML With Images
+\VBScript\Convert PDF To CSV
+\VBScript\Convert PDF To CSV By Pages
+\VBScript\Convert PDF To JSON
+\VBScript\Convert PDF To JSON With Images
+\VBScript\Convert PDF To XFDF
+\VBScript\Convert PDF To XLS
+\VBScript\Convert PDF To XML
+\VBScript\Convert PDF To XML With Images
 \VBScript\Extract Attachments from PDF
 \VBScript\Extract Image Coordinates By Page from PDF
 \VBScript\Extract Images by Page from PDF
