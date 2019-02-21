@@ -57,6 +57,7 @@
 \C#\Index PDF Documents In Folder
 \C#\Index PDF Files
 \C#\Make Searchable PDF
+\C#\Make Searchable PDF from Image
 \C#\Make Unsearchable PDF
 \C#\Merge PDF Documents
 \C#\OCR Analyser
@@ -146,6 +147,7 @@
 \VB.NET\Index PDF Documents In Folder
 \VB.NET\Index PDF Files
 \VB.NET\Make Searchable PDF
+\VB.NET\Make Searchable PDF from Image
 \VB.NET\Make Unsearchable PDF
 \VB.NET\Merge PDF Documents
 \VB.NET\OCR (Optical Character Recognition) and PDF
