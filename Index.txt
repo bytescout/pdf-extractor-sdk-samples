@@ -23,6 +23,7 @@
 \ASP.NET C#\Make PDF Unsearchable
 \ASP.NET C#\OCR (Optical Character Recognition) in PDF
 \ASP.NET C#\ZUGFeRD Invoice Extraction
+\C#\Batch check folder agianst JSON settings
 \C#\Check If OCR Is Required for PDF
 \C#\Compare PDF Documents
 \C#\Data Masking in PDF
@@ -67,6 +68,7 @@
 \C#\PDF files Parallel Processing
 \C#\PDF Invoice Parsing
 \C#\PDF To CSV
+\C#\PDF To CSV (Merge multiline text to table cell)
 \C#\PDF To CSV By Pages
 \C#\PDF To JSON
 \C#\PDF To JSON With Images
@@ -92,6 +94,7 @@
 \C#\Split PDF Document
 \C#\TextExtractor Progress Indication
 \C#\ZUGFeRD Invoice Extraction
+\C#\Batch check folder agianst JSON settings\InputFiles
 \C#\Check If OCR Is Required for PDF\InputFiles
 \C#\Index PDF Documents In Folder\Files
 \C++\Compare PDF Documents
@@ -105,9 +108,11 @@
 \Delphi\PDF Batch Processing
 \Microsoft Excel\Extract Text From Coordinates from PDF
 \Powershell\PDF To JSON
+\VB.NET\Batch check folder agianst JSON settings
 \VB.NET\Check If OCR Is Required for PDF
 \VB.NET\Compare PDF Documents
 \VB.NET\Convert PDF To CSV
+\VB.NET\Convert PDF To CSV  (Merge multiline text to table cell)
 \VB.NET\Convert PDF To CSV By Pages
 \VB.NET\Convert PDF To JSON
 \VB.NET\Convert PDF To JSON With Images
@@ -174,9 +179,11 @@
 \VB.NET\Split Document
 \VB.NET\TextExtractor Progress Indication
 \VB.NET\ZUGFeRD Invoice Extraction
+\VB.NET\Batch check folder agianst JSON settings\InputFiles
 \VB.NET\Check If OCR Is Required for PDF\InputFiles
 \VB.NET\Index PDF Documents In Folder\Files
 \VB6\Convert PDF To CSV
+\VB6\Convert PDF To CSV (Merge multiline text to table cell)
 \VB6\Convert PDF To JSON
 \VB6\Convert PDF To Text
 \VB6\Convert PDF To XML
@@ -185,6 +192,7 @@
 \VB6\Split PDF
 \VBScript\Compare PDF Documents
 \VBScript\Convert PDF To CSV
+\VBScript\Convert PDF To CSV (Merge multiline text to table cell)
 \VBScript\Convert PDF To CSV By Pages
 \VBScript\Convert PDF To JSON
 \VBScript\Convert PDF To JSON With Images
