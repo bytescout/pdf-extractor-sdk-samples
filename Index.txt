@@ -79,6 +79,7 @@
 \C#\PDF XFA Form To XML
 \C#\PDF-A Compatibility Test
 \C#\Read Hindi Text from PDF
+\C#\Read Text From Noisy Image
 \C#\Read Values from PDF Form Fields
 \C#\Reduce Memory Usage for PDF to Text
 \C#\Remove Empty Pages from PDF
@@ -165,6 +166,7 @@
 \VB.NET\PDF-A Compatibility Test
 \VB.NET\Profiles
 \VB.NET\Read Hindi Text
+\VB.NET\Read Text From Noisy Image
 \VB.NET\Read Values from Form Fields
 \VB.NET\Reduce Memory Usage
 \VB.NET\Remove Empty Pages
