@@ -64,6 +64,7 @@
 \C#\OCR Analyser
 \C#\OCR With Best Dataset
 \C#\OCR With Fast Dataset
+\C#\OCR With Mean Dataset
 \C#\Optimize PDF
 \C#\PDF and OCR (Optical Character Recognition)
 \C#\PDF Batch Processing
@@ -164,6 +165,7 @@
 \VB.NET\OCR Analyser in PDF
 \VB.NET\OCR With Best Dataset
 \VB.NET\OCR With Fast Dataset
+\VB.NET\OCR With Mean Dataset
 \VB.NET\Optimize PDF
 \VB.NET\Parallel Processing of PDF files
 \VB.NET\PDF files Batch Processing
@@ -232,6 +234,7 @@
 \VBScript\OCR Analyser for PDF
 \VBScript\OCR With Best Dataset
 \VBScript\OCR With Fast Dataset
+\VBScript\OCR With Mean Dataset
 \VBScript\PDF Extraction Profiles
 \VBScript\PDF files Batch Processing
 \VBScript\PDF OCR (Optical Character Recognition)
