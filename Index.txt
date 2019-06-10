@@ -74,6 +74,7 @@
 \C#\PDF To JSON With Images
 \C#\PDF To XFDF
 \C#\PDF To XLS
+\C#\PDF To XLSX
 \C#\PDF To XML
 \C#\PDF To XML With Images
 \C#\PDF XFA Form To XML
@@ -119,6 +120,7 @@
 \VB.NET\Convert PDF To JSON With Images
 \VB.NET\Convert PDF To XFDF
 \VB.NET\Convert PDF To XLS
+\VB.NET\convert PDF To XLSX
 \VB.NET\Convert PDF To XML
 \VB.NET\Convert XFA Form To XML in PDF
 \VB.NET\Data Masking in PDF
