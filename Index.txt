@@ -58,6 +58,8 @@
 \C#\Index PDF Documents In Folder
 \C#\Index PDF Files
 \C#\Make Searchable PDF
+\C#\Make Searchable PDF and Fix Rotated Pages
+\C#\Make Searchable PDF Discarding Existing Content
 \C#\Make Searchable PDF from Image
 \C#\Make Unsearchable PDF
 \C#\Merge PDF Documents
@@ -158,6 +160,8 @@
 \VB.NET\Index PDF Documents In Folder
 \VB.NET\Index PDF Files
 \VB.NET\Make Searchable PDF
+\VB.NET\Make Searchable PDF and Fix Rotated Pages
+\VB.NET\Make Searchable PDF Discarding Existing Content
 \VB.NET\Make Searchable PDF from Image
 \VB.NET\Make Unsearchable PDF
 \VB.NET\Merge PDF Documents
@@ -229,6 +233,8 @@
 \VBScript\Find Text in PDF Using Regex
 \VBScript\Index PDF Files
 \VBScript\Make Searchable PDF
+\VBScript\Make Searchable PDF and Fix Rotated Pages
+\VBScript\Make Searchable PDF Discarding Existing Content
 \VBScript\Make Unsearchable PDF
 \VBScript\Merge PDF Documents
 \VBScript\OCR Analyser for PDF
