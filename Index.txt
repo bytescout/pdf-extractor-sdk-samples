@@ -133,6 +133,7 @@
 \VB.NET\Convert PDF To XLS
 \VB.NET\convert PDF To XLSX
 \VB.NET\Convert PDF To XML
+\VB.NET\Convert Protected PDF Document to XLS
 \VB.NET\Convert XFA Form To XML in PDF
 \VB.NET\Data Masking in PDF
 \VB.NET\Detect Lines in PDF
@@ -171,6 +172,7 @@
 \VB.NET\Make Searchable PDF from Image
 \VB.NET\Make Unsearchable PDF
 \VB.NET\Merge PDF Documents
+\VB.NET\Merge Protected PDF Documents
 \VB.NET\OCR (Optical Character Recognition) and PDF
 \VB.NET\OCR Analyser in PDF
 \VB.NET\OCR With Best Dataset
@@ -197,6 +199,7 @@
 \VB.NET\Scanned PDF To XML
 \VB.NET\SearchablePDFMaker Progress Indication
 \VB.NET\Split Document
+\VB.NET\Split Protected PDF Document
 \VB.NET\TextExtractor Progress Indication
 \VB.NET\ZUGFeRD Invoice Extraction
 \VB.NET\Batch check folder agianst JSON settings\InputFiles
