@@ -23,6 +23,7 @@
 \ASP.NET C#\Make PDF Unsearchable
 \ASP.NET C#\OCR (Optical Character Recognition) in PDF
 \ASP.NET C#\ZUGFeRD Invoice Extraction
+\C#\Add Image Stamp in PDF
 \C#\Batch check folder agianst JSON settings
 \C#\Check If OCR Is Required for PDF
 \C#\Compare PDF Documents
@@ -121,6 +122,7 @@
 \Delphi\PDF Batch Processing
 \Microsoft Excel\Extract Text From Coordinates from PDF
 \Powershell\PDF To JSON
+\VB.NET\Add Image Stamp in PDF
 \VB.NET\Batch check folder agianst JSON settings
 \VB.NET\Check If OCR Is Required for PDF
 \VB.NET\Compare PDF Documents
