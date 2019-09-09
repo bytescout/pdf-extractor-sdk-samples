@@ -64,6 +64,7 @@
 \C#\Make Searchable PDF Discarding Existing Content
 \C#\Make Searchable PDF from Image
 \C#\Make Unsearchable PDF
+\C#\Merge All Documents Within Folder
 \C#\Merge PDF Documents
 \C#\Merge Protected PDF Documents
 \C#\OCR Analyser
@@ -108,6 +109,7 @@
 \C#\Batch check folder agianst JSON settings\InputFiles
 \C#\Check If OCR Is Required for PDF\InputFiles
 \C#\Index PDF Documents In Folder\Files
+\C#\Merge All Documents Within Folder\PDFDocs
 \C++\Compare PDF Documents
 \C++\Convert Protected PDF Document to Excel (C++ CLR)
 \C++\Extract PDF Pages
@@ -173,6 +175,7 @@
 \VB.NET\Make Searchable PDF Discarding Existing Content
 \VB.NET\Make Searchable PDF from Image
 \VB.NET\Make Unsearchable PDF
+\VB.NET\Merge All Documents Within Folder
 \VB.NET\Merge PDF Documents
 \VB.NET\Merge Protected PDF Documents
 \VB.NET\OCR (Optical Character Recognition) and PDF
@@ -207,6 +210,7 @@
 \VB.NET\Batch check folder agianst JSON settings\InputFiles
 \VB.NET\Check If OCR Is Required for PDF\InputFiles
 \VB.NET\Index PDF Documents In Folder\Files
+\VB.NET\Merge All Documents Within Folder\PDFDocs
 \VB6\Convert PDF To CSV
 \VB6\Convert PDF To CSV (Merge multiline text to table cell)
 \VB6\Convert PDF To JSON
@@ -247,6 +251,7 @@
 \VBScript\Make Searchable PDF and Fix Rotated Pages
 \VBScript\Make Searchable PDF Discarding Existing Content
 \VBScript\Make Unsearchable PDF
+\VBScript\Merge All Documents Within Folder
 \VBScript\Merge PDF Documents
 \VBScript\OCR Analyser for PDF
 \VBScript\OCR With Best Dataset
@@ -261,3 +266,4 @@
 \VBScript\Rotate PDF Document
 \VBScript\Split PDF Document
 \VBScript\ZUGFeRD Invoice Extraction
+\VBScript\Merge All Documents Within Folder\PDFDocs
