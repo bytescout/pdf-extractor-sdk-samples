@@ -91,6 +91,7 @@
 \C#\Read Hindi Text from PDF
 \C#\Read Text From Noisy Image
 \C#\Read Values from PDF Form Fields
+\C#\Reading and Writing to Azure Blob
 \C#\Reduce Memory Usage for PDF to Text
 \C#\Remove Empty Pages from PDF
 \C#\Remove Text from PDF
@@ -193,6 +194,7 @@
 \VB.NET\Read Hindi Text
 \VB.NET\Read Text From Noisy Image
 \VB.NET\Read Values from Form Fields
+\VB.NET\Reading and Writing to Azure Blob
 \VB.NET\Reduce Memory Usage
 \VB.NET\Remove Empty Pages
 \VB.NET\Remove Text
