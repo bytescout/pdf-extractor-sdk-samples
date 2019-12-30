@@ -125,6 +125,7 @@
 \Delphi\Convert PDF To CSV
 \Delphi\PDF Batch Processing
 \Microsoft Excel\Extract Text From Coordinates from PDF
+\Microsoft Excel\Merge PDF Documents
 \Powershell\PDF To JSON
 \VB.NET\Add Image Stamp in PDF
 \VB.NET\Batch check folder agianst JSON settings
