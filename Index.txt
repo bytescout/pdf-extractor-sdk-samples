@@ -64,6 +64,7 @@
 \C#\Make Searchable PDF Discarding Existing Content
 \C#\Make Searchable PDF from Image
 \C#\Make Unsearchable PDF
+\C#\Maximize performance and speed
 \C#\Merge All Documents Within Folder
 \C#\Merge PDF Documents
 \C#\Merge Protected PDF Documents
@@ -178,6 +179,7 @@
 \VB.NET\Make Searchable PDF Discarding Existing Content
 \VB.NET\Make Searchable PDF from Image
 \VB.NET\Make Unsearchable PDF
+\VB.NET\Maximize performance and speed
 \VB.NET\Merge All Documents Within Folder
 \VB.NET\Merge PDF Documents
 \VB.NET\Merge Protected PDF Documents
@@ -256,6 +258,7 @@
 \VBScript\Make Searchable PDF and Fix Rotated Pages
 \VBScript\Make Searchable PDF Discarding Existing Content
 \VBScript\Make Unsearchable PDF
+\VBScript\Maximize performance and speed
 \VBScript\Merge All Documents Within Folder
 \VBScript\Merge PDF Documents
 \VBScript\OCR Analyser for PDF
