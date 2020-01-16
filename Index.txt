@@ -31,6 +31,7 @@
 \C#\Correction to Deal with Date Issue after OCR
 \C#\Data Masking in PDF
 \C#\Detect Lines in PDF
+\C#\Download and Process file
 \C#\Extract Attachments from PDF
 \C#\Extract Audio from PDF
 \C#\Extract CSV from PDF and Fill Database (SQL Server)
@@ -58,6 +59,8 @@
 \C#\Find Text in PDF With Hyphens
 \C#\Find Text in PDF with Smart Match
 \C#\Find US Address in PDF with Regex
+\C#\Get Word Coordinates in JSON
+\C#\Get Word Coordinates in XML
 \C#\Index PDF Documents In Folder
 \C#\Index PDF Files
 \C#\Make Searchable PDF
@@ -147,6 +150,7 @@
 \VB.NET\Correction to Deal with Date Issue after OCR
 \VB.NET\Data Masking in PDF
 \VB.NET\Detect Lines in PDF
+\VB.NET\Download and Process file
 \VB.NET\Extract Attachments from PDF
 \VB.NET\Extract Audio from PDF
 \VB.NET\Extract CSV from PDF and Fill Database in SQL Server
@@ -174,6 +178,8 @@
 \VB.NET\Find Text in PDF with Smart Match
 \VB.NET\Find Text With Hyphens in PDF
 \VB.NET\Find US Address in PDF with Regex
+\VB.NET\Get Word Coordinates in JSON
+\VB.NET\Get Word Coordinates in XML
 \VB.NET\Index PDF Documents In Folder
 \VB.NET\Index PDF Files
 \VB.NET\Make Searchable PDF
@@ -255,6 +261,8 @@
 \VBScript\Find PDF Table And Extract As XML
 \VBScript\Find Text in PDF
 \VBScript\Find Text in PDF Using Regex
+\VBScript\Get Word Coordinates in JSON
+\VBScript\Get Word Coordinates in XML
 \VBScript\Index PDF Files
 \VBScript\Make Searchable PDF
 \VBScript\Make Searchable PDF and Fix Rotated Pages
