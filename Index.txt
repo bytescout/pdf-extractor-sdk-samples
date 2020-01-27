@@ -99,6 +99,7 @@
 \C#\Reading and Writing to Azure Blob
 \C#\Reduce Memory Usage for PDF to Text
 \C#\Remove Empty Pages from PDF
+\C#\Remove SSN Number from PDF Document
 \C#\Remove Text from PDF
 \C#\Repair Text in PDF
 \C#\Rotate PDF Document
@@ -209,6 +210,7 @@
 \VB.NET\Reading and Writing to Azure Blob
 \VB.NET\Reduce Memory Usage
 \VB.NET\Remove Empty Pages
+\VB.NET\Remove SSN Number from PDF Document
 \VB.NET\Remove Text
 \VB.NET\Repair Text
 \VB.NET\Rotate Document
