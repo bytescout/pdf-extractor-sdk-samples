@@ -63,6 +63,7 @@
 \C#\Get Word Coordinates in XML
 \C#\Index PDF Documents In Folder
 \C#\Index PDF Files
+\C#\Load Unicode CSV to DataTable using OLEDB
 \C#\Make Searchable PDF
 \C#\Make Searchable PDF and Fix Rotated Pages
 \C#\Make Searchable PDF Discarding Existing Content
@@ -184,6 +185,7 @@
 \VB.NET\Get Word Coordinates in XML
 \VB.NET\Index PDF Documents In Folder
 \VB.NET\Index PDF Files
+\VB.NET\Load Unicode CSV to DataTable using OLEDB
 \VB.NET\Make Searchable PDF
 \VB.NET\Make Searchable PDF and Fix Rotated Pages
 \VB.NET\Make Searchable PDF Discarding Existing Content
