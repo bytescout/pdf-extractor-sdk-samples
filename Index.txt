@@ -32,6 +32,7 @@
 \C#\Data Masking in PDF
 \C#\Detect Lines in PDF
 \C#\Download and Process file
+\C#\Extract 3D Animation from PDF
 \C#\Extract Attachments from PDF
 \C#\Extract Audio from PDF
 \C#\Extract CSV from PDF and Fill Database (SQL Server)
@@ -156,6 +157,7 @@
 \VB.NET\Data Masking in PDF
 \VB.NET\Detect Lines in PDF
 \VB.NET\Download and Process file
+\VB.NET\Extract 3D Animation from PDF
 \VB.NET\Extract Attachments from PDF
 \VB.NET\Extract Audio from PDF
 \VB.NET\Extract CSV from PDF and Fill Database in SQL Server
