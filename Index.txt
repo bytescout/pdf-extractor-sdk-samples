@@ -77,6 +77,7 @@
 \C#\Merge PDF Documents
 \C#\Merge Protected PDF Documents
 \C#\OCR Analyser
+\C#\OCR Modes
 \C#\OCR With Best Dataset
 \C#\OCR With Fast Dataset
 \C#\OCR With Mean Dataset
@@ -203,6 +204,7 @@
 \VB.NET\Merge Protected PDF Documents
 \VB.NET\OCR (Optical Character Recognition) and PDF
 \VB.NET\OCR Analyser in PDF
+\VB.NET\OCR Modes
 \VB.NET\OCR With Best Dataset
 \VB.NET\OCR With Fast Dataset
 \VB.NET\OCR With Mean Dataset
