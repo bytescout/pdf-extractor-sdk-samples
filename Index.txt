@@ -117,6 +117,7 @@
 \C#\SearchablePDFMaker Progress Indication
 \C#\Sensitive Data Detector
 \C#\Set Configuration Profiles
+\C#\Split Document into Separate Pages
 \C#\Split PDF Document
 \C#\Split Protected PDF Document
 \C#\TextExtractor Progress Indication
@@ -235,6 +236,7 @@
 \VB.NET\SearchablePDFMaker Progress Indication
 \VB.NET\Sensitive Data Detector
 \VB.NET\Split Document
+\VB.NET\Split document into separate pages
 \VB.NET\Split Protected PDF Document
 \VB.NET\TextExtractor Progress Indication
 \VB.NET\ZUGFeRD Invoice Extraction
