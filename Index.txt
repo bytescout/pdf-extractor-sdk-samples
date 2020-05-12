@@ -51,7 +51,9 @@
 \C#\Extract Video from PDF
 \C#\Extraction From Complex Borderless Tables
 \C#\Filter Watermark Text
+\C#\Find Credit Card Number in PDF with Regex
 \C#\Find Email Addresses in PDF with Regex
+\C#\Find Invoice Total Amount in PDF with Regex
 \C#\Find Keyword And Extract Page in PDF
 \C#\Find Keyword And Extract Text in PDF
 \C#\Find PDF Table And Extract As CSV
@@ -63,6 +65,8 @@
 \C#\Find Text in PDF With Hyphens
 \C#\Find Text in PDF with Smart Match
 \C#\Find US Address in PDF with Regex
+\C#\Find Website Addresses in PDF with Regex
+\C#\Find Zip Code in PDF with Regex
 \C#\Get Word Coordinates in JSON
 \C#\Get Word Coordinates in XML
 \C#\Index PDF Documents In Folder
@@ -181,7 +185,9 @@
 \VB.NET\Extract Video from PDF
 \VB.NET\Extraction From Complex Borderless Tables
 \VB.NET\Filter Watermark Text
+\VB.NET\Find Credit Card Number in PDF with Regex
 \VB.NET\Find Email Addresses in PDF using Regex
+\VB.NET\Find Invoice Total Amount in PDF with Regex
 \VB.NET\Find Keyword in PDF And Extract Page
 \VB.NET\Find Keyword in PDF And Extract Text
 \VB.NET\Find Phone Number in PDF with Regex
@@ -193,6 +199,8 @@
 \VB.NET\Find Text in PDF with Smart Match
 \VB.NET\Find Text With Hyphens in PDF
 \VB.NET\Find US Address in PDF with Regex
+\VB.NET\Find Website Addresses in PDF with Regex
+\VB.NET\Find Zip Code in PDF with Regex
 \VB.NET\Get Word Coordinates in JSON
 \VB.NET\Get Word Coordinates in XML
 \VB.NET\Index PDF Documents In Folder
