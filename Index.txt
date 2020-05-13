@@ -46,6 +46,7 @@
 \C#\Extract PDF text To Stream
 \C#\Extract Table Structure from PDF
 \C#\Extract Text By Columns from PDF
+\C#\Extract Text from Foldable Brochure Booklet
 \C#\Extract Text from PDF
 \C#\Extract Text From PDF By Pages
 \C#\Extract Video from PDF
@@ -180,6 +181,7 @@
 \VB.NET\Extract Table Structure from PDF
 \VB.NET\Extract Text By Columns from PDF
 \VB.NET\Extract Text By Pages from PDF
+\VB.NET\Extract Text from Foldable Brochure Booklet
 \VB.NET\Extract Text From Page Area in PDF
 \VB.NET\Extract Text from PDF
 \VB.NET\Extract Video from PDF
