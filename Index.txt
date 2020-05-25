@@ -26,6 +26,7 @@
 \C#\Add Image Stamp in PDF
 \C#\Arabic Text Extraction
 \C#\Batch check folder agianst JSON settings
+\C#\Census Table from Life and Annuity quote request PDF
 \C#\Check If OCR Is Required for PDF
 \C#\Compare PDF Documents
 \C#\Convert Protected PDF Document to XLS
@@ -150,6 +151,7 @@
 \VB.NET\Add Image Stamp in PDF
 \VB.NET\Arabic Text Extraction
 \VB.NET\Batch check folder agianst JSON settings
+\VB.NET\Census Table from Life and Annuity quote request PDF
 \VB.NET\Check If OCR Is Required for PDF
 \VB.NET\Compare PDF Documents
 \VB.NET\Convert PDF To CSV
