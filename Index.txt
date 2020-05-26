@@ -33,6 +33,7 @@
 \C#\Correction to Deal with Date Issue after OCR
 \C#\Data Masking in PDF
 \C#\Detect Lines in PDF
+\C#\Display License Info
 \C#\Download and Process file
 \C#\Extract 3D Animation from PDF
 \C#\Extract Attachments from PDF
@@ -169,6 +170,7 @@
 \VB.NET\Correction to Deal with Date Issue after OCR
 \VB.NET\Data Masking in PDF
 \VB.NET\Detect Lines in PDF
+\VB.NET\Display License Info
 \VB.NET\Download and Process file
 \VB.NET\Extract 3D Animation from PDF
 \VB.NET\Extract Attachments from PDF
@@ -277,6 +279,7 @@
 \VBScript\Convert PDF To XLS
 \VBScript\Convert PDF To XML
 \VBScript\Convert PDF To XML With Images
+\VBScript\Display License Info
 \VBScript\Extract Attachments from PDF
 \VBScript\Extract Image Coordinates By Page from PDF
 \VBScript\Extract Images by Page from PDF
