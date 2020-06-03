@@ -100,6 +100,7 @@
 \C#\PDF To CSV By Pages
 \C#\PDF To JSON
 \C#\PDF To JSON With Images
+\C#\PDF to Scanned PDF
 \C#\PDF To XFDF
 \C#\PDF To XLS
 \C#\PDF To XLSX
@@ -232,6 +233,7 @@
 \VB.NET\Parallel Processing of PDF files
 \VB.NET\PDF files Batch Processing
 \VB.NET\PDF Invoice Parsing
+\VB.NET\PDF to Scanned PDF
 \VB.NET\PDF To XML With Images
 \VB.NET\PDF-A Compatibility Test
 \VB.NET\Profiles
@@ -316,6 +318,7 @@
 \VBScript\PDF Extraction Profiles
 \VBScript\PDF files Batch Processing
 \VBScript\PDF OCR (Optical Character Recognition)
+\VBScript\PDF to Scanned PDF
 \VBScript\PDF XFA Form To XML
 \VBScript\Reduce Memory Usage for PDF Extraction
 \VBScript\Remove Text from PDF
