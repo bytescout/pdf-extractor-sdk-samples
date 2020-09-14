@@ -145,11 +145,38 @@
 \C++\PDF and OCR (Optical Character Recognition)
 \C++\Split PDF Document
 \C++\Split Protected PDF Document (C++ CLR)
+\Delphi\Arabic Text Extraction
 \Delphi\Convert PDF To CSV
+\Delphi\Detect Lines in PDF
+\Delphi\OCR Analyser
 \Delphi\PDF Batch Processing
+\Delphi\Read Text From Noisy Image
 \Microsoft Excel\Extract Text From Coordinates from PDF
 \Microsoft Excel\Merge PDF Documents
+\Powershell\Arabic Text Extraction
+\Powershell\Extract Images from PDF
+\Powershell\Extract PDF Text From Page Area
+\Powershell\Extract Text By Columns from PDF
+\Powershell\Extract Text from PDF
+\Powershell\Find Email Addresses in PDF with Regex
+\Powershell\Find Invoice Total Amount in PDF with Regex
+\Powershell\Find Keyword And Extract Page in PDF
+\Powershell\Find PDF Table And Extract As CSV
+\Powershell\Find PDF Table And Extract As XML
+\Powershell\Find Text in PDF
+\Powershell\Find Text in PDF using Regex
+\Powershell\Make Searchable PDF
+\Powershell\Merge All Documents Within Folder
+\Powershell\Merge PDF Documents
+\Powershell\PDF To CSV
+\Powershell\PDF To CSV By Pages
 \Powershell\PDF To JSON
+\Powershell\PDF To JSON With Images
+\Powershell\PDF To XLS
+\Powershell\PDF To XLSX
+\Powershell\PDF To XML
+\Powershell\Split PDF Document
+\Powershell\Merge All Documents Within Folder\PDFDocs
 \VB.NET\Add Image Stamp in PDF
 \VB.NET\Arabic Text Extraction
 \VB.NET\Batch check folder agianst JSON settings
