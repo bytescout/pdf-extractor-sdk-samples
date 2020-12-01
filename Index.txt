@@ -29,6 +29,8 @@
 \C#\Census Table from Life and Annuity quote request PDF
 \C#\Check If OCR Is Required for PDF
 \C#\Compare PDF Documents
+\C#\Convert PDF to Black and White
+\C#\Convert PDF to Black and White Excluding some page
 \C#\Convert Protected PDF Document to XLS
 \C#\Correction to Deal with Date Issue after OCR
 \C#\Data Masking in PDF
@@ -183,6 +185,8 @@
 \VB.NET\Census Table from Life and Annuity quote request PDF
 \VB.NET\Check If OCR Is Required for PDF
 \VB.NET\Compare PDF Documents
+\VB.NET\Convert PDF to Black and White
+\VB.NET\Convert PDF to Black and White Excluding some page
 \VB.NET\Convert PDF To CSV
 \VB.NET\Convert PDF To CSV  (Merge multiline text to table cell)
 \VB.NET\Convert PDF To CSV By Pages
@@ -299,6 +303,8 @@
 \VB6\Split PDF
 \VBScript\Arabic Text Extraction
 \VBScript\Compare PDF Documents
+\VBScript\Convert PDF to Black and White
+\VBScript\Convert PDF to Black and White Excluding some page
 \VBScript\Convert PDF To CSV
 \VBScript\Convert PDF To CSV (Merge multiline text to table cell)
 \VBScript\Convert PDF To CSV By Pages
