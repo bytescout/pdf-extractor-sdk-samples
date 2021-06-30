@@ -61,6 +61,7 @@
 \C#\Find Invoice Total Amount in PDF with Regex
 \C#\Find Keyword And Extract Page in PDF
 \C#\Find Keyword And Extract Text in PDF
+\C#\Find PDF Borderless Table And Extract As CSV
 \C#\Find PDF Table And Extract As CSV
 \C#\Find PDF Table And Extract As XML
 \C#\Find Phone Number in PDF with Regex
@@ -223,6 +224,7 @@
 \VB.NET\Extract Video from PDF
 \VB.NET\Extraction From Complex Borderless Tables
 \VB.NET\Filter Watermark Text
+\VB.NET\Find Borderless Table in PDF And Extract As CSV
 \VB.NET\Find Credit Card Number in PDF with Regex
 \VB.NET\Find Email Addresses in PDF using Regex
 \VB.NET\Find Invoice Total Amount in PDF with Regex
