@@ -63,6 +63,8 @@
 \C#\Find Keyword And Extract Text in PDF
 \C#\Find PDF Borderless Table And Extract As CSV
 \C#\Find PDF Table And Extract As CSV
+\C#\Find PDF Table And Extract As JSON
+\C#\Find PDF Table And Extract As Text
 \C#\Find PDF Table And Extract As XML
 \C#\Find Phone Number in PDF with Regex
 \C#\Find SSN in PDF with Regex
@@ -233,6 +235,8 @@
 \VB.NET\Find Phone Number in PDF with Regex
 \VB.NET\Find SSN Number in PDF with Regex
 \VB.NET\Find Table in PDF And Extract As CSV
+\VB.NET\Find Table in PDF And Extract As JSON
+\VB.NET\Find Table in PDF And Extract As Text
 \VB.NET\Find Table in PDF And Extract As XML
 \VB.NET\Find Text in PDF
 \VB.NET\Find Text in PDF with Regex
