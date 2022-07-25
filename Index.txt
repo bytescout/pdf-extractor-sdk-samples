@@ -133,6 +133,7 @@
 \C#\Set Configuration Profiles
 \C#\Split Document into Separate Pages
 \C#\Split PDF Document
+\C#\Split PDF Document By Text
 \C#\Split Protected PDF Document
 \C#\TextExtractor Progress Indication
 \C#\ZUGFeRD Invoice Extraction
